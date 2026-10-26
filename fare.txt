@@ -1,0 +1,5 @@
+Cab App Fare Estimation
+
+Base Fare: Rs. 50
+Per Kilometer: Rs. 15
+Waiting Charge: Rs. 2 per minute
